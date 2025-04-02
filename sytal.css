@@ -1,0 +1,25 @@
+div{
+    width:500px;
+    height:570px;
+    background-color: rgb(57, 168, 13);
+
+}
+p{
+    color:#151517;
+    font-size: 20px;
+}
+.one{
+    background-color: violet;
+}
+#two{
+    background-color: #5012b8;
+}
+.three{
+    background-color: tomato;
+}
+h1,p{
+    border: 5px solid burlywood;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ 
+}
