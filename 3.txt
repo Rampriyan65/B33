@@ -1,0 +1,152 @@
+  <div class="container py-5">
+        <div class="row py-5">
+            <div class="col-lg-5 m-auto text-center">
+                <h1>Book</h1>
+                <p>voluptatem sint nisi ipsam laborum ex corrupti deserunt distinctio maxime necessitatibus dolorem amet officiis in nam!</p>
+            </div>
+        </div>
+        <div class="row row-cols-1 row-cols-md-4 g-4">
+            <div class="col">
+                <div class="card h-100">
+                  <img src="107.jfif" class="card-img-top" alt="...">
+                  <div class="card-body">                
+                    <h5>Harry Potter</h5> 
+                    <p>Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends, Ron Weasley and Hermione Grange</p>
+                   <button type="button" class="btn btn-outline-secondary">RED MORE</button>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100">
+                  <img src="108.webp" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h6>tamil</h6> 
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis provident ex unde porro, veritatis qui. Nam error omnis quaerat, nostrum facilis sint reiciendis repellendus! Qui quia a voluptatem eum magnam.</p>         
+                   <button type="button" class="btn btn-outline-secondary">RED MORE</button>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100">
+                  <img src="109.jfif" class="card-img-top" alt="...">
+                  <div class="card-body">                
+                    <h6>tamil</h6> 
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis provident ex unde porro, veritatis qui. Nam error omnis quaerat, nostrum facilis sint reiciendis repellendus! Qui quia a voluptatem eum magnam.</p>
+                   <button type="button" class="btn btn-outline-secondary">RED MORE</button>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100">
+                  <img src="102.webp" class="card-img-top" alt="...">
+                  <div class="card-body">                
+                    <h6>tamil</h6> 
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis provident ex unde porro, veritatis qui. Nam error omnis quaerat, nostrum facilis sint reiciendis repellendus! Qui quia a voluptatem eum magnam.</p>
+                   <button type="button" class="btn btn-outline-secondary">RED MORE</button>
+                  </div>
+                </div>
+              </div>
+             </div>
+            </div>
+                       
+          </div>
+    </div>
+
+<div class="container py-5">
+        <div class="row py-5">
+            <div class="col-lg-5 m-auto text-center">
+                <h1>Book</h1>
+                <p>voluptatem sint nisi ipsam laborum ex corrupti deserunt distinctio maxime necessitatibus dolorem amet officiis in nam!</p>
+            </div>
+        </div>
+        <div class="row row-cols-1 row-cols-md-4 g-4">
+            <div class="col">
+                <div class="card h-100">
+                  <img src="107.jfif" class="card-img-top" alt="...">
+                  <div class="card-body">                
+                    <h5>Harry Potter</h5> 
+                    <p>Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends, Ron Weasley and Hermione Grange</p>
+                   <button type="button" class="btn btn-outline-secondary">RED MORE</button>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100">
+                  <img src="108.webp" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h6>tamil</h6> 
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis provident ex unde porro, veritatis qui. Nam error omnis quaerat, nostrum facilis sint reiciendis repellendus! Qui quia a voluptatem eum magnam.</p>         
+                   <button type="button" class="btn btn-outline-secondary">RED MORE</button>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100">
+                  <img src="109.jfif" class="card-img-top" alt="...">
+                  <div class="card-body">                
+                    <h6>tamil</h6> 
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis provident ex unde porro, veritatis qui. Nam error omnis quaerat, nostrum facilis sint reiciendis repellendus! Qui quia a voluptatem eum magnam.</p>
+                   <button type="button" class="btn btn-outline-secondary">RED MORE</button>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100">
+                  <img src="102.webp" class="card-img-top" alt="...">
+                  <div class="card-body">                
+                    <h6>tamil</h6> 
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis provident ex unde porro, veritatis qui. Nam error omnis quaerat, nostrum facilis sint reiciendis repellendus! Qui quia a voluptatem eum magnam.</p>
+                   <button type="button" class="btn btn-outline-secondary">RED MORE</button>
+                  </div>
+                </div>
+              </div>
+             </div>
+            </div>
+                       
+          </div>
+    </div>
+</section>
+<section class="contactus" id="contactus">
+  <div class="container py-5"> 
+    <div class="col-lg-5 m-auto text-center">
+      <h1>Contact Us</h1>
+      <p>Emill: Ramkumar124@gmail.com.<br>cell:1234567890</p>
+      </div>
+  </div>
+  <div class="row mb-3">
+    <label for="inputEmail3" class="col-sm-2 col-form-label" style="padding: 20px;" ></label>
+    <div class="col-sm-10">
+      <input type="email" class="form-control" id="inputEmail3"placeholder="Your name">
+    </div>
+    </div>
+    <div class="row mb-3">
+      <label for="inputEmail3" class="col-sm-2 col-form-label" style="padding: 20px;"></label>
+      <div class="col-sm-10">
+        <input type="email" class="form-control" id="inputEmail3"placeholder="Your mail">
+      </div>
+    </div> 
+      <div class="row mb-3">
+        <label for="inputEmail3" class="col-sm-2 col-form-label" style="padding: 20px;"></label>
+        <div class="col-sm-10">
+          <input type="email" class="form-control" id="inputEmail3"placeholder="Subjoct">
+        </div>
+      </div>
+      <div class="row mb-3">
+          <label for="inputEmail3" class="col-sm-2 col-form-label" style="padding: 20px;"></label>
+          <div class="col-sm-10">
+            <input type="email" class="form-control" id="inputEmail3"placeholder="Address">
+          </div>
+        </div>
+          <div class="row mb-3">
+          <label for="inputEmail3" class="col-sm-2 col-form-label" style="padding: 20px;"></label>
+            <div class="col-sm-10">
+            <input type="Message" class="form-control" id="inputEmail3"placeholder="Message">         
+          </div>
+        <div class="content text-center"><button type="button" class="btn-success">Send Message</button></div>
+        </div>
+  </div>
+
+<div style="text-align: center;">
+    <h1>Terms conditions</h1>
+    <p>YOUR BOOK CONTENT, WALL ART CONTENT, AND ANY OTHER PRODUCT CONTENT CANNOT BE EDITED ONCE IT IS UPLOADED TO THE WEBSITE.</p>
+  </div>
